@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Alex 👋
+
+#About Me
+I'm interested in software development and product management and I am currently studying computer science at UC Davis. 
+Find out more about me by visiting [my website](http://alexle.xyz/)!
+
 
 <!--
 **alexle123/alexle123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
