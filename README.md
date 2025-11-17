@@ -3,7 +3,7 @@
 #### About Me
 
 I'm interested in software development and product management and I am currently studying computer science at UC Davis. 
-Find out more about me by visiting [my website](http://alexle.xyz/)!
+Find out more about me by visiting [my website](http://alexle.me/)!
 
 
 <!--
