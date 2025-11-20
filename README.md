@@ -2,7 +2,7 @@
 
 #### About Me
 
-I'm interested in exciting products & software development and recently graduated from UC Davis!
+I'm interested in exciting products & software development, and recently graduated from UC Davis!
 
 Find out more about me by visiting [my website](http://alexle.me/)
 
