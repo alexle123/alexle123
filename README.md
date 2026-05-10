@@ -2,4 +2,4 @@
 
 #### About Me
 
-alexle.me(http://alexle.me/)
+http://alexle.me/
